@@ -26,4 +26,4 @@ Nmap, BloodHound, Redflower (own recon tooling), Burp (Repeater), Python recon (
 - Yogosha: Strike Force candidate (waiting list)
 - Rule: testing only with authorization/scope or localhost. No OOS, no mass scraping, no prod without permission.
 
-> Bird of Hermes: eating my wings to make me tame — power with restraint.
+> Bird of Hermes: eating my wings to make me tame, power with restraint.
